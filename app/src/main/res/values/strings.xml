@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Varanasi Transport</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="err">Sorry, Google Play Services are not available on your device</string>
+    <string name="Search_buses">Search Buses</string>
+</resources>
